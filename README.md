@@ -19,13 +19,15 @@ _Colors library_
 
     pip install colorama
 
-### Instalación 🔧
+### Installation
 
-cd
+1. cd
+
 ```
 cd simple-keylogger
 ```
-_Run_
+2. run
+   
 ```
 sudo python3 keylogger.py
 ```
